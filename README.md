@@ -1,4 +1,4 @@
-## 🔥 LPG Gas Detector 🚨
+# 🔥 LPG Gas Detector 🚨
 
 
 A simple and effective LPG gas detector using Arduino to keep your environment safe by alerting you when LPG gas levels exceed a safe threshold. This project uses an MQ-2 gas sensor, an LCD for real-time monitoring, LEDs for visual alerts, and a buzzer for sound alerts.
