@@ -20,7 +20,8 @@ Resistors
 Breadboard and Jumper Wires
 
 ⚡ Circuit Diagram
- ![LPG_gas](https://github.com/user-attachments/assets/bb4354f0-b4ab-4de4-bcef-431a9c35c311)
+ ![Circuit](https://github.com/user-attachments/assets/132b9771-42b0-498a-8a63-c96c3f430245)
+
 
 # 📝 Setup Instructions
 Connect the Components:
